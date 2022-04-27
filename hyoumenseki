@@ -1,8 +1,0 @@
-＃「 getVolumeSurface.h 」を含める 
-
-void  getArea（2倍の幅、2倍の高さ、2倍の深さ、2倍の*ボリューム、2倍の* surfaceArea）
-{
-
-    *ボリューム=幅*高さ*深さ;
-    * surfaceArea = 2 *（幅*高さ+高さ*深さ+深さ*幅）;
-}
