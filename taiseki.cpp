@@ -2,9 +2,7 @@
 ＃「 getVolumeSurface.h 」を含める
 名前空間 stdを使用します;
 
-int  main（）
-
-{
+int  main（）{
 	ダブルx、y、z;
 	cout << "幅を：";
 	cin >> x;
