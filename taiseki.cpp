@@ -5,15 +5,15 @@
 int  main（）
 {
 	ダブルx、y、z;
-	cout << "幅を入力：";
+	cout << "幅を：";
 	cin >> x;
-	cout << "高さをツ：";
+	cout << "高さ：";
 	cin >> y;
-	cout << "奥行をする：";
+	cout << "奥行：";
 	cin >> z;
 	ダブルボリューム、表面;
 	getVolumeSurface（x、y、z、＆surface、＆volume）;
-	cout << "体積は" << ボリューム << endl << "前は" << 表面 << endl;
+	cout << "体積" << ボリューム << endl << "前" << 表面 << endl;
 
 	 0を返す;
 }
