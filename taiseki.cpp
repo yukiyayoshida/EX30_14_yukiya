@@ -4,7 +4,7 @@
 
 int  main（）
 
-
+{
 	ダブルx、y、z;
 	cout << "幅を：";
 	cin >> x;
